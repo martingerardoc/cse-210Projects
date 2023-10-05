@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-class Program
+class Journal
 {
      static List<string> journalEntries = new List<string>();
     static void Main(string[] args)
